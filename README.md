@@ -1,1 +1,1 @@
-# Olist-Customer-Retention-Analysis
+In this project I utilized SQL and tableau to give transformational data-driven insights. Before my analysis this business had a high churn rate, an average customer value of 120$, and a low revenue predictability. With my data driven insights on their side, they are on track to have a recurring revenue, an average customer revenue of over 500$, and a high revenue predictability.
