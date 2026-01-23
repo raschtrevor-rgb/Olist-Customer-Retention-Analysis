@@ -1,0 +1,11 @@
+Findings: I utilized a dual-axis chart to contrast volume against value.
+As you can see, the customer volume (represented by the bars) drops off sharply after the first purchase. However, the average spend (represented by the line) hits an inflection point at the fourth order, jumping to $750.
+This visualizes the 'Retention Gap'—the space between where we lose customers and where they become most profitable.
+Data revealed a near 0% repeat purchase rate across all product categories. 
+This indicates that while customer acquisition is functioning, the platform is currently a "one-and-done" ecosystem, failing to meet long-term customer needs or capture recurring spend.
+With these findings in mind we can infer that from retaining high value customers, we would earn more money, and we would also save more money on acquiring new customers.
+
+
+Technical Methodology: Joined order_payments, customers, and orders tables to segment our analysis into recency, frequency, and monetary value for customers in the customer lifecycle.
+Developed a Tableau Dashboard that simulates the potential revenue uplift of a any conversion rate(interactive) to a subscription model compared to the current 0% retention baseline past the second order.
+Used the amount of 750$ a year as our subscription cost(but this can always be optimized in the future), because that is the inflection point for our highest valued customers.
