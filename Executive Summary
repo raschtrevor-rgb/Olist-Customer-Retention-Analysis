@@ -1,4 +1,4 @@
-Findings: I utilized a dual-axis chart to contrast volume against value.
+Findings:I utilized a dual-axis chart to contrast volume against value.
 As you can see, the customer volume (represented by the bars) drops off sharply after the first purchase. However, the average spend (represented by the line) hits an inflection point at the fourth order, jumping to $750.
 This visualizes the 'Retention Gap'—the space between where we lose customers and where they become most profitable.
 Data revealed a near 0% repeat purchase rate across all product categories. 
