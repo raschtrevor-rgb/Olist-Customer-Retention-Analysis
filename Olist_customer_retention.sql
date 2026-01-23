@@ -1,3 +1,5 @@
+-- If you are interested in reading the executive summary please look in this repository:) 
+
 SELECT * FROM brazilian_e_commerce.order_items;
 -- Segmenting the data by Recency, frequency, and monetary value is my gameplan for this project
 -- Find most recent order for each customer
